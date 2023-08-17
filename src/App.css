@@ -1,0 +1,12 @@
+.App {
+	text-align: center;
+}
+
+.navbar ul {
+	list-style-type: none;
+}
+
+.navbar-link {
+	display: inline;
+	margin-right: 10px;
+}
